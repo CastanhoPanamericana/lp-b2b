@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+:root {
+  --espm-red: #C8102E;
+  --espm-red-hover: #A00C23;
+  --pan-dark: #111111;
+  --pan-yellow: #FFF100;
+  --bg-gray: #F4F5F7;
+  --card-bg: #FFFFFF;
+  --border-color: #E2E8F0;
+  --text-main: #1A1A1A;
+  --text-muted: #64748B;
+  --badge-pos: #8A2BE2;
+  --badge-intensivo: #D97706;
+  --badge-formacao: #2563EB;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background-color: var(--bg-gray);
+  color: var(--text-main);
+  margin: 0;
+  padding: 0;
+}
+

@@ -1,0 +1,8 @@
+{
+  "name": "Remix Catálogo B2B ESPM Panamericana - V4",
+  "description": "Catálogo de cursos corporativos e soluções in-company B2B da ESPM e Panamericana Escola de Arte e Design sem a faixa preta no topo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
